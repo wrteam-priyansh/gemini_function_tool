@@ -70,5 +70,221 @@
     "description": "Multi-sport protective helmet with adjustable fit",
     "stock": 18,
     "brand": "SafetyFirst"
+  },
+  {
+    "id": "CRICKETBAT001",
+    "name": "Cricket Bat Pro",
+    "category": "Cricket",
+    "price": 159.99,
+    "description": "English willow cricket bat for professional players",
+    "stock": 20,
+    "brand": "CricketElite"
+  },
+  {
+    "id": "CRICKETBALL001",
+    "name": "Cricket Ball",
+    "category": "Cricket",
+    "price": 29.99,
+    "description": "Regulation leather cricket ball for matches",
+    "stock": 50,
+    "brand": "CricketElite"
+  },
+  {
+    "id": "CRICKETPAD001",
+    "name": "Cricket Batting Pads",
+    "category": "Cricket",
+    "price": 69.99,
+    "description": "Lightweight batting pads with enhanced protection",
+    "stock": 15,
+    "brand": "CricketElite"
+  },
+  {
+    "id": "CRICKETGLOVE001",
+    "name": "Cricket Batting Gloves",
+    "category": "Cricket",
+    "price": 49.99,
+    "description": "Premium leather batting gloves for superior grip",
+    "stock": 25,
+    "brand": "CricketElite"
+  },
+  {
+    "id": "CRICKETHELMET001",
+    "name": "Cricket Helmet Pro",
+    "category": "Cricket",
+    "price": 89.99,
+    "description": "High-impact cricket helmet with adjustable grille",
+    "stock": 12,
+    "brand": "CricketElite"
+  },
+  {
+    "id": "CRICKETSTUMP001",
+    "name": "Cricket Stumps Set",
+    "category": "Cricket",
+    "price": 39.99,
+    "description": "Regulation wooden cricket stumps with bails",
+    "stock": 30,
+    "brand": "CricketElite"
+  },
+  {
+    "id": "CRICKETJERSEY001",
+    "name": "Cricket Team Jersey",
+    "category": "Cricket",
+    "price": 44.99,
+    "description": "Breathable cricket jersey in team colors",
+    "stock": 35,
+    "brand": "CricketElite"
+  },
+  {
+    "id": "CRICKETSHORTS001",
+    "name": "Cricket Shorts",
+    "category": "Cricket",
+    "price": 29.99,
+    "description": "Comfortable cricket shorts with moisture-wicking fabric",
+    "stock": 40,
+    "brand": "CricketElite"
+  },
+  {
+    "id": "CRICKETGLOVE002",
+    "name": "Wicket Keeping Gloves",
+    "category": "Cricket",
+    "price": 79.99,
+    "description": "Reinforced wicket keeping gloves for maximum protection",
+    "stock": 10,
+    "brand": "CricketElite"
+  },
+  {
+    "id": "CRICKETPAD002",
+    "name": "Wicket Keeping Pads",
+    "category": "Cricket",
+    "price": 59.99,
+    "description": "Lightweight wicket keeping pads for agility",
+    "stock": 15,
+    "brand": "CricketElite"
+  },
+  {
+    "id": "CRICKETBAT002",
+    "name": "Junior Cricket Bat",
+    "category": "Cricket",
+    "price": 99.99,
+    "description": "Lightweight cricket bat for junior players",
+    "stock": 25,
+    "brand": "CricketElite"
+  },
+  {
+    "id": "CRICKETBALL002",
+    "name": "Practice Cricket Ball",
+    "category": "Cricket",
+    "price": 19.99,
+    "description": "Durable practice cricket ball for training sessions",
+    "stock": 60,
+    "brand": "CricketElite"
+  },
+  {
+    "id": "CRICKETBAG001",
+    "name": "Cricket Kit Bag",
+    "category": "Cricket",
+    "price": 69.99,
+    "description": "Spacious cricket kit bag with multiple compartments",
+    "stock": 20,
+    "brand": "CricketElite"
+  },
+  {
+    "id": "CRICKETSHOE001",
+    "name": "Cricket Spiked Shoes",
+    "category": "Cricket",
+    "price": 119.99,
+    "description": "Spiked cricket shoes for superior grip on turf",
+    "stock": 18,
+    "brand": "CricketElite"
+  },
+  {
+    "id": "CRICKETGUARD001",
+    "name": "Cricket Abdominal Guard",
+    "category": "Cricket",
+    "price": 14.99,
+    "description": "Protective abdominal guard for batsman safety",
+    "stock": 50,
+    "brand": "CricketElite"
+  },
+  {
+    "id": "CRICKETCAP001",
+    "name": "Cricket Cap",
+    "category": "Cricket",
+    "price": 19.99,
+    "description": "Breathable cricket cap for sun protection",
+    "stock": 45,
+    "brand": "CricketElite"
+  },
+  {
+    "id": "CRICKETSOCKS001",
+    "name": "Cricket Socks",
+    "category": "Cricket",
+    "price": 12.99,
+    "description": "Comfortable cricket socks with extra padding",
+    "stock": 60,
+    "brand": "CricketElite"
+  },
+  {
+    "id": "CRICKETARMGUARD001",
+    "name": "Cricket Arm Guard",
+    "category": "Cricket",
+    "price": 24.99,
+    "description": "Lightweight arm guard for batsman protection",
+    "stock": 30,
+    "brand": "CricketElite"
+  },
+  {
+    "id": "CRICKETTHIGHGUARD001",
+    "name": "Cricket Thigh Guard",
+    "category": "Cricket",
+    "price": 39.99,
+    "description": "Dual-sided thigh guard for comprehensive protection",
+    "stock": 25,
+    "brand": "CricketElite"
+  },
+  {
+    "id": "CRICKETBALL003",
+    "name": "T20 Cricket Ball",
+    "category": "Cricket",
+    "price": 34.99,
+    "description": "White leather cricket ball for T20 matches",
+    "stock": 40,
+    "brand": "CricketElite"
+  },
+  {
+    "id": "CRICKETBAT003",
+    "name": "Cricket Bat Club",
+    "category": "Cricket",
+    "price": 129.99,
+    "description": "Grade 2 English willow bat for club players",
+    "stock": 15,
+    "brand": "CricketElite"
+  },
+  {
+    "id": "CRICKETJERSEY002",
+    "name": "Cricket Training Jersey",
+    "category": "Cricket",
+    "price": 39.99,
+    "description": "Lightweight training jersey for cricket practice",
+    "stock": 30,
+    "brand": "CricketElite"
+  },
+  {
+    "id": "CRICKETNET001",
+    "name": "Cricket Practice Net",
+    "category": "Cricket",
+    "price": 199.99,
+    "description": "Portable cricket practice net for batting and bowling",
+    "stock": 8,
+    "brand": "CricketElite"
+  },
+  {
+    "id": "CRICKETGLOVE003",
+    "name": "Junior Batting Gloves",
+    "category": "Cricket",
+    "price": 34.99,
+    "description": "Leather batting gloves for junior cricketers",
+    "stock": 20,
+    "brand": "CricketElite"
   }
 ]
