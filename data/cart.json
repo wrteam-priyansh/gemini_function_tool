@@ -1,0 +1,10 @@
+{
+  "user_id": "user123",
+  "items": [
+    {
+      "product_id": "BALL001",
+      "quantity": 1,
+      "price": 45.99
+    }
+  ]
+}

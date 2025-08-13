@@ -1,0 +1,74 @@
+[
+  {
+    "id": "BALL001",
+    "name": "Professional Football",
+    "category": "Football",
+    "price": 45.99,
+    "description": "Official size football with premium leather construction",
+    "stock": 25,
+    "brand": "SportMax"
+  },
+  {
+    "id": "SHOE001",
+    "name": "Running Shoes Pro",
+    "category": "Footwear",
+    "price": 129.99,
+    "description": "High-performance running shoes with advanced cushioning",
+    "stock": 15,
+    "brand": "AthleteGear"
+  },
+  {
+    "id": "BAT001",
+    "name": "Baseball Bat Elite",
+    "category": "Baseball",
+    "price": 89.99,
+    "description": "Aluminum alloy baseball bat for professional play",
+    "stock": 12,
+    "brand": "PowerHit"
+  },
+  {
+    "id": "JERSEY001",
+    "name": "Team Jersey Home",
+    "category": "Apparel",
+    "price": 34.99,
+    "description": "Official team jersey in home colors",
+    "stock": 30,
+    "brand": "TeamWear"
+  },
+  {
+    "id": "GLOVE001",
+    "name": "Baseball Glove Pro",
+    "category": "Baseball",
+    "price": 149.99,
+    "description": "Premium leather baseball glove for infield positions",
+    "stock": 8,
+    "brand": "FieldMaster"
+  },
+  {
+    "id": "SHORTS001",
+    "name": "Athletic Shorts",
+    "category": "Apparel",
+    "price": 24.99,
+    "description": "Moisture-wicking athletic shorts for training",
+    "stock": 40,
+    "brand": "ActiveWear"
+  },
+  {
+    "id": "RACKET001",
+    "name": "Tennis Racket Pro",
+    "category": "Tennis",
+    "price": 199.99,
+    "description": "Carbon fiber tennis racket for advanced players",
+    "stock": 10,
+    "brand": "AceRackets"
+  },
+  {
+    "id": "HELMET001",
+    "name": "Protective Helmet",
+    "category": "Safety",
+    "price": 79.99,
+    "description": "Multi-sport protective helmet with adjustable fit",
+    "stock": 18,
+    "brand": "SafetyFirst"
+  }
+]
